@@ -1,5 +1,5 @@
 Project Description
-This project involves creating a client to interact with Azure Digital Twins (ADT) and building a digital twin model for smart space management. It consists of two main parts: creating models and generating a graph of interconnected objects (spaces, thermostats, etc.) within an IoT application.
+This project involves creating a client to interact with Azure Digital Twins (ADT) and building a digital twin model for smart space management. It consists of two main parts: creating models and generating a graph of interconnected objects (spaces, thermostats, etc.) within an IoT application. note that this code will help juste to create the relation and the graphical interface of your digital twin model and not to send the data on it.
 
 Features:
 1.Loading Models (LoadModels):
